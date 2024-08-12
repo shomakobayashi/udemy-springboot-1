@@ -11,7 +11,7 @@ public class IssueEntity {
     private String summary;
     private String description;
 
-// Lombokを使用するため既存コンストラクタはコメントアウト
+// Lombokを使用するため、既存コンストラクタはコメントアウト
 //    public IssueEntity(long id, String summary, String description) {
 //        this.id = id;
 //        this.summary = summary;
